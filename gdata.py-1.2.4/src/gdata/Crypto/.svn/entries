@@ -1,0 +1,69 @@
+8
+
+dir
+938
+svn+ssh://njoubert.com/var/svn/Hackathon09/trunk/gdata.py-1.2.4/src/gdata/Crypto
+svn+ssh://njoubert.com/var/svn
+
+
+
+2009-02-14T17:31:57.446327Z
+935
+hackers
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+997b1fe7-5dcb-cc6a-e049-b7da040a1fbe
+
+Cipher
+dir
+
+Hash
+dir
+
+Protocol
+dir
+
+PublicKey
+dir
+
+Util
+dir
+
+__init__.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+d9e4ec020db8ff2d80a4a11116d57f22
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+test.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+623b8d4620a9dbee27e41063f8933f80
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+

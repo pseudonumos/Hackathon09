@@ -1,0 +1,160 @@
+8
+
+dir
+938
+svn+ssh://njoubert.com/var/svn/Hackathon09/trunk/gdata.py-1.2.4/src/gdata
+svn+ssh://njoubert.com/var/svn
+
+
+
+2009-02-14T17:31:57.446327Z
+935
+hackers
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+997b1fe7-5dcb-cc6a-e049-b7da040a1fbe
+
+Crypto
+dir
+
+__init__.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+3d743b700d670c9d513660f5ae630002
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+alt
+dir
+
+apps
+dir
+
+auth.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+667dc28d8176dfc596020d35d12b8fa7
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+base
+dir
+
+blogger
+dir
+
+calendar
+dir
+
+client.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+4f06accd5d4697fd66a7fad1a6998ebe
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+codesearch
+dir
+
+contacts
+dir
+
+docs
+dir
+
+exif
+dir
+
+geo
+dir
+
+media
+dir
+
+oauth
+dir
+
+photos
+dir
+
+service.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+820ee8504c5126f74dab7b629849b66b
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+spreadsheet
+dir
+
+test_data.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+cf7446a70b34fae5798f42be2597eb1e
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+tlslite
+dir
+
+urlfetch.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+3c80c9a52d016c7e98bf38566462dae7
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+webmastertools
+dir
+
+youtube
+dir
+

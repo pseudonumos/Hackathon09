@@ -1,0 +1,54 @@
+8
+
+dir
+938
+svn+ssh://njoubert.com/var/svn/Hackathon09/trunk/gdata.py-1.2.4/build/lib/gdata/docs
+svn+ssh://njoubert.com/var/svn
+
+
+
+2009-02-14T17:31:57.446327Z
+935
+hackers
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+997b1fe7-5dcb-cc6a-e049-b7da040a1fbe
+
+__init__.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+8aaaa4c1c20a269d1da8731a4d951940
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
+service.py
+file
+
+
+
+
+2009-02-14T17:31:22.000000Z
+f3f05a06f1dc60e89e8b668f09c4c0fc
+2009-02-14T17:31:57.446327Z
+935
+hackers
+has-props
+
